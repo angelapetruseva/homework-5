@@ -1,0 +1,30 @@
+body {
+    /*style for the whole page*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(sky.jpg);
+    color: white;
+}
+.txt {
+    /*class txt and its attributes*/
+    text-align: center;
+    margin: 5vw;
+    padding: 5vw;
+}
+/*styles for the objects one by one*/
+h1 {
+font-size: 25px;
+}
+h2 {
+font-size: 50px;
+}
+p {
+font-size: 20px;
+}
+button {
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    border: black;
+    border-radius: 5px;
+    color: white;
+}
